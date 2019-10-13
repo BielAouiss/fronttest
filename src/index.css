@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.grey-container{
+  margin-top: 0px;
+  padding: 5px;
+  background-color: grey;
+}
+
+.hotel-element{
+  margin: 10px 10px 10px 10px;
+  border-radius: 30px;
+  
+}
+.card-img-top{
+  border-top-right-radius: 30% !important;
+  border-bottom-right-radius: 30% !important;
+}
+
+.details{
+  display: block;
+}
+.hotel-name{
+  float: left;
+}
+.hotel-description{
+  float: left;
+  text-align: justify;
+}
+
+.hotel-price{
+  float: right;
+}
+
+
+
